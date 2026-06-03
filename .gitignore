@@ -10,3 +10,7 @@ data/processed/
 *.sqlite
 
 .DS_Store
+
+data/simple_vector_db.pkl
+
+data/chroma_db/
